@@ -1,0 +1,12 @@
+{
+  "locofyConfig": {
+    "project_name": "BearPlanner",
+    "id": "657914e871fa646755f9bc07",
+    "framework": "react-native",
+    "typescript": false,
+    "path": "assets/",
+    "componentsPath": "c:\\Users\\nitni\\Documents\\Project\\src\\components",
+    "screensPath": "c:\\Users\\nitni\\Documents\\Project\\src\\pages",
+    "project_environment": "expo_go"
+  }
+}
